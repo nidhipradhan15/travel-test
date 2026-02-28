@@ -35,3 +35,6 @@ git push -u origin main
 ```
 
 Replace `YOUR_USERNAME` and `YOUR_REPO_NAME` with your GitHub username and repo name.
+
+Description:
+ Wanderlust is your digital compass to the world’s most hidden corners. We believe that travel isn’t just about the destination; it’s about the stories you bring home and the perspective you gain along the way. From misty mountain peaks to the quiet hum of a cobblestone street at dawn, we provide the inspiration you need to stop dreaming and start exploring.
